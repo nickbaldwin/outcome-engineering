@@ -1,5 +1,7 @@
 # Agentic Weekly Product Update System
 
+[google doc](https://docs.google.com/document/d/1bR0DRvwCY5T5MAWmrsoeLrIa-OHRQuyFWXekmmlsDOI/edit?tab=t.0)
+
 ### The 5 Core Steps
 
 ![](weekly-update-steps.png)

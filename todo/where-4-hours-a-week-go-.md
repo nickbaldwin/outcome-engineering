@@ -10,8 +10,6 @@ Dec 30, 2025
 
 Most weeks, product updates start the same way. I would set the when and the what with my team. About 60% of the team would do what was expected, but in their “voice”. Then I would be chasing over Slack, email, and text over the weekend, the laggards. Then came the formatting and reformatting. The bit of misplaced pride that I was adding “my secret sauce”, aka wasting time rehashing what was said into tight “exec” speak. By the time the product update was released, I was already behind on the work I was supposed to do next, and had to start from the beginning of this cycle. It reminded me of a comic in Cat Kid Comic Club that I love to read with my kids. Time Wasters: The Wasters of Time
 
-[![Time Wasters](https://substackcdn.com/image/fetch/ $s_!STiN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b793801-90d6-47ed-96af-8ac7506a9d1b_660x974.png "Time Wasters")](https://substackcdn.com/image/fetch/$s_!STiN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b793801-90d6-47ed-96af-8ac7506a9d1b_660x974.png)
-
 4hrs per week spent on Product Updates
 
 For a long time, this just felt like the cost of leadership. Communication is part of the job. Alignment takes work. Of course, it takes time. But then AI prompting came about. And now Agents 😇. There is a better way, people!
@@ -28,7 +26,7 @@ I recently ran a survey with product leaders to put numbers behind what many of 
 
 Nearly 70 percent of PMs spend half a day each week preparing product updates. About 33% of that time is spent translating work for executives. Another 30% percent goes to chasing inputs. That translation number is the one that stuck with me. Almost a third of the time spent on updates is about reframing the same information so it makes sense to someone with a different vantage point. This information system was never designed end-to-end to be ai-native.
 
-[![Forms response chart. Question title: How much time do you personally spend each week preparing product updates?. Number of responses: 74 responses.](https://substackcdn.com/image/fetch/ $s_!SljV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9bac836-f5da-496a-9d43-fe5b7e1ab039_1796x869.png "Forms response chart. Question title: How much time do you personally spend each week preparing product updates?. Number of responses: 74 responses.")](https://substackcdn.com/image/fetch/$s_!SljV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9bac836-f5da-496a-9d43-fe5b7e1ab039_1796x869.png)
+![Forms response chart](https://substackcdn.com/image/fetch/$s_!SljV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9bac836-f5da-496a-9d43-fe5b7e1ab039_1796x869.png)
 
 Time Spent on Product Updates by Sr. PMs, Directors, VPs and CPOs
 
@@ -58,7 +56,7 @@ Next comes synthesis. This is where AI helps, too. It summarizes progress, surfa
 
 Human review sits after synthesis and before distribution because judgment and accountability matter. If you are putting incomplete or garbage data in, the system will not work.
 
-[![Product Update Workflow](https://substackcdn.com/image/fetch/ $s_!BZIW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6945ea3c-4500-4bce-a09d-0767dca86ee7_1528x276.png "Product Update Workflow")](https://substackcdn.com/image/fetch/$s_!BZIW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6945ea3c-4500-4bce-a09d-0767dca86ee7_1528x276.png)
+![Product Update Workflow](https://substackcdn.com/image/fetch/$s_!BZIW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6945ea3c-4500-4bce-a09d-0767dca86ee7_1528x276.png)
 
 Weekly Product Update Workflow with Human Review
 
@@ -66,9 +64,9 @@ Under the hood, the system is less complex than it sounds and does not require y
 
 Same data. Different framing. No rework.
 
-[![Architectural Diagram for an LLM Workflow](https://substackcdn.com/image/fetch/ $s_!UP3e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dab9a42-fc70-4ec8-9b4b-8ff7369b75da_1536x1024.png "Architectural Diagram for an LLM Workflow")](https://substackcdn.com/image/fetch/$s_!UP3e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dab9a42-fc70-4ec8-9b4b-8ff7369b75da_1536x1024.png)
+![Architectural Diagram for an LLM Workflow](https://substackcdn.com/image/fetch/$s_!UP3e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dab9a42-fc70-4ec8-9b4b-8ff7369b75da_1536x1024.png)
 
-Architectural Diagram
+
 
 If you want the agentic implementation workflow for product updates, it’s in the downloads section below.
 
